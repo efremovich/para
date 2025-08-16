@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nixos/Untitled.md",
+                "file": "Nixos/Чек лист для nixos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Чек лист для nixos"
             }
           }
         ],
@@ -197,10 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a47beac959b2b7f6",
+  "active": "6fe43942dc32ce60",
   "lastOpenFiles": [
     "Astral/Развертывание/Заметки, что нужно прописать для разработки..md",
-    "Nixos/Untitled.md",
+    "Nixos/Чек лист для nixos.md",
     "Nixos",
     "README.md",
     "Astral/Развертывание",
