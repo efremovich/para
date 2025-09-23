@@ -8,33 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63a48066cfd87b34",
+            "id": "8d76009526b4f67d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "fuel-app/API-first.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0777d3c3b2e1c532",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "38ee53fdb3e08313",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "API-first"
             }
           }
         ]
@@ -184,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63a48066cfd87b34",
+  "active": "8d76009526b4f67d",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "fuel-app/API-first.md",
+    "fuel-app"
   ]
 }
