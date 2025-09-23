@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"276bfeab7543fb36","x":-480,"y":-740,"width":250,"height":60,"color":"5","type":"text","text":"Авторизация"},
+		{"id":"bcfb13e7ab7f971e","x":-230,"y":-560,"width":250,"height":60,"type":"text","text":"Получение данных"}
+	],
+	"edges":[
+		{"id":"f3936bd8416c9036","fromNode":"276bfeab7543fb36","fromSide":"right","toNode":"bcfb13e7ab7f971e","toSide":"left"}
+	]
+}

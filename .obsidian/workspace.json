@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "init/fuel-app/Приложение для Автокарт.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -230,
+                  "y": -620,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
+              "title": "Приложение для Автокарт"
             }
           }
         ]
@@ -153,6 +153,16 @@
               "icon": "lucide-list",
               "title": "Outline of Заметки, что нужно прописать для разработки."
             }
+          },
+          {
+            "id": "bb38f1dc8bacc870",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -169,17 +179,18 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
   "active": "d8d2a8a063e53164",
   "lastOpenFiles": [
-    "init/fuel-app/API-first.md",
-    "Без названия.canvas",
-    "Astral/Развертывание/Заметки, что нужно прописать для разработки..md",
-    "init/Welcome.md",
     "Nixos/Чек лист для nixos.md",
     "README.md",
+    "init/fuel-app/API-first.md",
+    "init/fuel-app/Приложение для Автокарт.canvas",
+    "Astral/Развертывание/Заметки, что нужно прописать для разработки..md",
+    "init/Welcome.md",
     "Nixos",
     "Astral/Развертывание",
     "Astral"
