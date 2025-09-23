@@ -1,11 +1,11 @@
-- [ ]  openvp
-- [ ] remmina или доступ к RDP
-- [ ] крепкий сон компьютера
-- [ ] nvim 
-	- [ ] go
-	- [ ] php
-	- [ ] js
-	- [ ] nix
-	- [ ]  html
-	- [ ] python
-- [ ] 
+- [x]  openvp
+- [x] remmina или доступ к RDP
+- [x] крепкий сон компьютера
+- [x] nvim 
+	- [x] go
+	- [x] php
+	- [x] js
+	- [x] nix
+	- [x]  html
+	- [x] python
+- [x] 
