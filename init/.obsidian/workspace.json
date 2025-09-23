@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bb239642a4a2e0b1",
+        "id": "cf6195fec8eab049",
         "type": "tabs",
         "children": [
           {
-            "id": "8d76009526b4f67d",
+            "id": "5a3bbee8dfbfb7d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fuel-app/API-first.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "API-first"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -169,12 +165,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "8d76009526b4f67d",
+  "active": "5a3bbee8dfbfb7d8",
   "lastOpenFiles": [
+    "fuel-app/API-first.md",
     "Welcome.md",
     "Untitled 1.base",
     "Untitled.base",
-    "fuel-app/API-first.md",
     "fuel-app"
   ]
 }
