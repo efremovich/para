@@ -1,5 +1,6 @@
-- [x]  openvp
-- [x] remmina или доступ к RDP
+
+
+remmina или доступ к RDP
 - [x] крепкий сон компьютера
 - [x] nvim 
 	- [x] go
