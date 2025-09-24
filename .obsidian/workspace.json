@@ -11,14 +11,17 @@
             "id": "d8d2a8a063e53164",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "init/fuel-app/API-first.md",
-                "mode": "source",
-                "source": false
+                "file": "fuel-app/Приложение для Автокарт.canvas",
+                "viewState": {
+                  "x": -365,
+                  "y": -1550,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "API-first"
+              "icon": "lucide-layout-dashboard",
+              "title": "Приложение для Автокарт"
             }
           }
         ]
@@ -182,11 +185,11 @@
   },
   "active": "d8d2a8a063e53164",
   "lastOpenFiles": [
-    "init/fuel-app/Приложение для Автокарт.canvas",
-    "init/fuel-app/API-first.md",
+    "README.md",
+    "fuel-app/API-first.md",
+    "fuel-app/Приложение для Автокарт.canvas",
     "devOps/Hash corp Voult.md",
     "Nixos/Чек лист для nixos.md",
-    "README.md",
     "devOps",
     "Astral/Развертывание/Заметки, что нужно прописать для разработки..md",
     "init/Welcome.md",
