@@ -11,17 +11,14 @@
             "id": "d8d2a8a063e53164",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "fuel-app/Приложение для Автокарт.canvas",
-                "viewState": {
-                  "x": -365,
-                  "y": -1550,
-                  "zoom": 0
-                }
+                "file": "fuel-app/API-first.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Приложение для Автокарт"
+              "icon": "lucide-file",
+              "title": "API-first"
             }
           }
         ]
@@ -47,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -160,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -173,21 +170,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "d8d2a8a063e53164",
   "lastOpenFiles": [
+    "fuel-app/Приложение для Автокарт.canvas",
     "README.md",
     "fuel-app/API-first.md",
-    "fuel-app/Приложение для Автокарт.canvas",
     "devOps/Hash corp Voult.md",
     "Nixos/Чек лист для nixos.md",
     "devOps",
