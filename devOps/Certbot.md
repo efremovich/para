@@ -1,5 +1,5 @@
 
-## 0. **Добавление сертификата в nginx
+## 0. **Добавление сертификата в nginx**
 ```bash
 sudo certbot --nginx -d harbor.autocard-yug.ru
 ```

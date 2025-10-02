@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "devOps/Certbot.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -195,7 +195,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "a47beac959b2b7f6",
+  "active": "350bbb5f055fae15",
   "lastOpenFiles": [
     "devOps/Hash corp Voult.md",
     "devOps/Certbot.md",
