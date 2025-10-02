@@ -11,20 +11,32 @@
             "id": "d8d2a8a063e53164",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "fuel-app/Приложение для Автокарт.canvas",
-                "viewState": {
-                  "x": -365,
-                  "y": -1550,
-                  "zoom": 0
-                }
+                "file": "devOps/Hash corp Voult.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Приложение для Автокарт"
+              "icon": "lucide-file",
+              "title": "Hash corp Voult"
+            }
+          },
+          {
+            "id": "350bbb5f055fae15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "devOps/Certbot.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Certbot"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,12 +195,13 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "d8d2a8a063e53164",
+  "active": "a47beac959b2b7f6",
   "lastOpenFiles": [
+    "devOps/Hash corp Voult.md",
+    "devOps/Certbot.md",
+    "fuel-app/Приложение для Автокарт.canvas",
     "README.md",
     "fuel-app/API-first.md",
-    "fuel-app/Приложение для Автокарт.canvas",
-    "devOps/Hash corp Voult.md",
     "Nixos/Чек лист для nixos.md",
     "devOps",
     "Astral/Развертывание/Заметки, что нужно прописать для разработки..md",
