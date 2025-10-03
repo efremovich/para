@@ -56,14 +56,17 @@
             "id": "86b20b481ca42c48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "fuel-app/Иструкции/Настройка Nginx.md",
-                "mode": "source",
-                "source": false
+                "file": "fuel-app/CDCD проекта fuel-app.canvas",
+                "viewState": {
+                  "x": -995,
+                  "y": -2740,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Настройка Nginx"
+              "icon": "lucide-layout-dashboard",
+              "title": "CDCD проекта fuel-app"
             }
           }
         ],
@@ -228,14 +231,14 @@
   },
   "active": "86b20b481ca42c48",
   "lastOpenFiles": [
-    "fuel-app/Данные инфраструктуры/Stage.md",
+    "fuel-app/Приложение для Автокарт.canvas",
+    "devOps/Certbot.md",
     "fuel-app/Иструкции/Настройка Nginx.md",
+    "fuel-app/Данные инфраструктуры/Stage.md",
     "fuel-app/API-first.md",
     "fuel-app/CDCD проекта fuel-app.canvas",
-    "fuel-app/Приложение для Автокарт.canvas",
     "fuel-app/Иструкции",
     "fuel-app/Данные инфраструктуры",
-    "devOps/Certbot.md",
     "devOps/Hash corp Voult.md",
     "README.md",
     "Nixos/Чек лист для nixos.md",

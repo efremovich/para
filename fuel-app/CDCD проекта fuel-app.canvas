@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"56ba35ff4c17fa43","type":"text","text":"gitlab","x":-1380,"y":-2800,"width":250,"height":60},
-		{"id":"10af5bc14c782385","x":-1120,"y":-3100,"width":250,"height":60,"type":"text","text":"Harbor"}
+		{"id":"b09847325b3e313a","x":-1720,"y":-3360,"width":250,"height":60,"type":"text","text":"[[Stage]]"},
+		{"id":"f61d7fbafd051e05","x":-1380,"y":-2880,"width":770,"height":280,"type":"text","text":""},
+		{"id":"56ba35ff4c17fa43","type":"text","text":"gitlab","x":-1340,"y":-2740,"width":250,"height":60},
+		{"id":"10af5bc14c782385","type":"text","text":"Harbor","x":-900,"y":-2820,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"18d3f75dff5ab021","fromNode":"56ba35ff4c17fa43","fromSide":"top","toNode":"10af5bc14c782385","toSide":"bottom","label":"Сборка образа"}
