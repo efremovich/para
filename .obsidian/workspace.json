@@ -27,7 +27,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "fuel-app/CDCD проекта fuel-app.canvas",
+                "file": "fuel-app/Приложение для Автокарт.canvas",
                 "viewState": {
                   "x": -365,
                   "y": -1550,
@@ -35,7 +35,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "CDCD проекта fuel-app"
+              "title": "Приложение для Автокарт"
             }
           },
           {
@@ -56,17 +56,14 @@
             "id": "86b20b481ca42c48",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "fuel-app/CDCD проекта fuel-app.canvas",
-                "viewState": {
-                  "x": -1125,
-                  "y": -2920,
-                  "zoom": 0
-                }
+                "file": "fuel-app/Данные инфраструктуры/Stage.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CDCD проекта fuel-app"
+              "icon": "lucide-file",
+              "title": "Stage"
             }
           }
         ],
@@ -231,12 +228,12 @@
   },
   "active": "86b20b481ca42c48",
   "lastOpenFiles": [
-    "fuel-app/Приложение для Автокарт.canvas",
-    "fuel-app/Данные инфраструктуры/Stage.md",
-    "fuel-app/Иструкции",
     "fuel-app/Иструкции/Настройка Nginx.md",
-    "fuel-app/CDCD проекта fuel-app.canvas",
     "fuel-app/API-first.md",
+    "fuel-app/CDCD проекта fuel-app.canvas",
+    "fuel-app/Приложение для Автокарт.canvas",
+    "fuel-app/Иструкции",
+    "fuel-app/Данные инфраструктуры/Stage.md",
     "fuel-app/Данные инфраструктуры",
     "devOps/Certbot.md",
     "devOps/Hash corp Voult.md",
