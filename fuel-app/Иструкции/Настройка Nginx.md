@@ -1,10 +1,11 @@
-Сертификаты. [[Certbot]]
-Создание сертификата
+## Сертификаты. 
+[[Certbot]]
+### Создание сертификата
 ```bash
 certbot certonly --nginx -d ${app}.${domain} -d www.${app}.${domain}
 ```
 
-Настройка nginx
+### Настройка nginx
 ```ini
 upstream ${app}.${domain} {
     server localhost:${port};
@@ -34,7 +35,7 @@ server {
 }
 ```
 
-После изменений нужно 
+#### После изменений нужно 
 1. Проверить конфигурацию. 
 	```bash
 	nginx -t
