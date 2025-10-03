@@ -58,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fuel-app/Данные инфраструктуры/Stage.md",
+                "file": "fuel-app/Иструкции/Настройка Nginx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stage"
+              "title": "Настройка Nginx"
             }
           }
         ],
@@ -228,12 +228,12 @@
   },
   "active": "86b20b481ca42c48",
   "lastOpenFiles": [
+    "fuel-app/Данные инфраструктуры/Stage.md",
     "fuel-app/Иструкции/Настройка Nginx.md",
     "fuel-app/API-first.md",
     "fuel-app/CDCD проекта fuel-app.canvas",
     "fuel-app/Приложение для Автокарт.canvas",
     "fuel-app/Иструкции",
-    "fuel-app/Данные инфраструктуры/Stage.md",
     "fuel-app/Данные инфраструктуры",
     "devOps/Certbot.md",
     "devOps/Hash corp Voult.md",
