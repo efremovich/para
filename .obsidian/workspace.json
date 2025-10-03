@@ -25,14 +25,17 @@
             "id": "350bbb5f055fae15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "devOps/Certbot.md",
-                "mode": "preview",
-                "source": true
+                "file": "fuel-app/Приложение для Автокарт 1.canvas",
+                "viewState": {
+                  "x": -365,
+                  "y": -1550,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Certbot"
+              "icon": "lucide-layout-dashboard",
+              "title": "Приложение для Автокарт 1"
             }
           }
         ],
@@ -195,11 +198,12 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "350bbb5f055fae15",
+  "active": "a47beac959b2b7f6",
   "lastOpenFiles": [
-    "devOps/Hash corp Voult.md",
-    "devOps/Certbot.md",
     "fuel-app/Приложение для Автокарт.canvas",
+    "fuel-app/Приложение для Автокарт 1.canvas",
+    "devOps/Certbot.md",
+    "devOps/Hash corp Voult.md",
     "README.md",
     "fuel-app/API-first.md",
     "Nixos/Чек лист для nixos.md",
