@@ -1,11 +1,16 @@
 {
 	"nodes":[
-		{"id":"b09847325b3e313a","x":-1720,"y":-3360,"width":250,"height":60,"type":"text","text":"[[Stage]]"},
-		{"id":"f61d7fbafd051e05","x":-1380,"y":-2880,"width":770,"height":280,"type":"text","text":""},
-		{"id":"56ba35ff4c17fa43","type":"text","text":"gitlab","x":-1340,"y":-2740,"width":250,"height":60},
-		{"id":"10af5bc14c782385","type":"text","text":"Harbor","x":-900,"y":-2820,"width":250,"height":60}
+		{"id":"cc6c9e6c2bb78654","type":"text","text":"git push stage","x":-1290,"y":-2800,"width":250,"height":60},
+		{"id":"967e588b02a53da7","type":"text","text":"gitlab deploy","x":-665,"y":-3020,"width":250,"height":60,"color":"3"},
+		{"id":"56ba35ff4c17fa43","type":"text","text":"gitlab build","x":-1415,"y":-3020,"width":250,"height":60,"color":"3"},
+		{"id":"10af5bc14c782385","type":"text","text":"Harbor","x":-1040,"y":-3180,"width":250,"height":60,"color":"5"},
+		{"id":"e7320cc378e67084","type":"file","file":"fuel-app/Данные инфраструктуры/Stage.md","x":-880,"y":-2660,"width":555,"height":500}
 	],
 	"edges":[
-		{"id":"18d3f75dff5ab021","fromNode":"56ba35ff4c17fa43","fromSide":"top","toNode":"10af5bc14c782385","toSide":"bottom","label":"Сборка образа"}
+		{"id":"18d3f75dff5ab021","fromNode":"56ba35ff4c17fa43","fromSide":"top","toNode":"10af5bc14c782385","toSide":"left","label":"Сборка образа"},
+		{"id":"5051dc5f07bbc4ce","fromNode":"cc6c9e6c2bb78654","fromSide":"top","toNode":"56ba35ff4c17fa43","toSide":"bottom"},
+		{"id":"31e84d3c5d1e37da","fromNode":"56ba35ff4c17fa43","fromSide":"right","toNode":"967e588b02a53da7","toSide":"left","color":"4"},
+		{"id":"582dabed806c11a1","fromNode":"10af5bc14c782385","fromSide":"right","toNode":"967e588b02a53da7","toSide":"top","label":"Получение образа"},
+		{"id":"b3938a5248d38fc6","fromNode":"967e588b02a53da7","fromSide":"bottom","toNode":"e7320cc378e67084","toSide":"top"}
 	]
 }

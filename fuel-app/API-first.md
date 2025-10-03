@@ -15,3 +15,4 @@
 [[Приложение для Автокарт.canvas|Приложение для Автокарт]]
 
 # Задача
+![[fuel-app/Untitled Diagram.svg]]![[fuel-app/Untitled Diagram 1.svg]]
