@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Диаграммы.md",
-                "mode": "preview",
+                "file": "fuel-app/Диаграммы.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Диаграммы.md",
+                "file": "fuel-app/Диаграммы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
   "active": "9944491fd5e56a4b",
   "lastOpenFiles": [
     "Nixos/Чек лист для nixos.md",
-    "Диаграммы.md",
+    "fuel-app/Диаграммы.md",
     "Nixos/RDP скрипт.md",
     "fuel-app/Мысли.md",
     "fuel-app/Ещё пример для авторизации.md",
