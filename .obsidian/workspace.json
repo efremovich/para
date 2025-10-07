@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fuel-app/Диаграммы.md",
+                "file": "devOps/Hash corp Voult.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Диаграммы"
+              "title": "Hash corp Voult"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fuel-app/Диаграммы.md",
+                "file": "devOps/Hash corp Voult.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Диаграммы"
+              "title": "Обратные ссылки для Hash corp Voult"
             }
           },
           {
@@ -183,16 +183,18 @@
   },
   "active": "9944491fd5e56a4b",
   "lastOpenFiles": [
+    "devOps/Certbot.md",
+    "devOps/Hash corp Voult.md",
+    "Astral/Развертывание/Заметки, что нужно прописать для разработки..md",
+    "README.md",
+    "fuel-app/Мысли.md",
     "Nixos/Чек лист для nixos.md",
+    "fuel-app/Ещё пример для авторизации.md",
+    "fuel-app/Доска проекта fuel-app.md",
     "fuel-app/Диаграммы.md",
     "Nixos/RDP скрипт.md",
-    "fuel-app/Мысли.md",
-    "fuel-app/Ещё пример для авторизации.md",
-    "devOps/Certbot.md",
-    "Astral/Развертывание/Заметки, что нужно прописать для разработки..md",
     "fuel-app/Иструкции/Настройка Nginx.md",
     "fuel-app/Данные инфраструктуры/Stage.md",
-    "fuel-app/Доска проекта fuel-app.md",
     "fuel-app/CDCD проекта fuel-app.canvas",
     "fuel-app/Приложение для Автокарт.canvas",
     "Excalidraw/Drawing 2025-10-03 15.49.14.excalidraw.md",
@@ -200,11 +202,9 @@
     "fuel-app/API-first.md",
     "fuel-app/Untitled Diagram 1.svg",
     "fuel-app/Untitled Diagram.svg",
-    "devOps/Hash corp Voult.md",
     "Excalidraw",
     "fuel-app/Иструкции",
     "fuel-app/Данные инфраструктуры",
-    "README.md",
     "devOps",
     "init/Welcome.md",
     "Nixos",
