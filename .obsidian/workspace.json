@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fuel-app/Мысли.md",
+                "file": "fuel-app/Диаграммы.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мысли"
+              "title": "Диаграммы"
             }
           }
         ],
@@ -215,6 +215,7 @@
   },
   "active": "48c9ec8d642e2051",
   "lastOpenFiles": [
+    "fuel-app/Мысли.md",
     "fuel-app/Диаграммы.md",
     "fuel-app/Без названия.md",
     "fuel-app/Приложение для Автокарт.canvas",
@@ -222,7 +223,6 @@
     "devOps/Hash corp Voult.md",
     "Astral/Развертывание/Заметки, что нужно прописать для разработки..md",
     "README.md",
-    "fuel-app/Мысли.md",
     "Nixos/Чек лист для nixos.md",
     "fuel-app/Ещё пример для авторизации.md",
     "fuel-app/Доска проекта fuel-app.md",
