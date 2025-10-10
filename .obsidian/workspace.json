@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fuel-app/Мысли.md",
+                "file": "fuel-app/Диаграммы.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мысли"
+              "title": "Диаграммы"
             }
           }
         ],
@@ -213,10 +213,10 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "48c9ec8d642e2051",
+  "active": "a47beac959b2b7f6",
   "lastOpenFiles": [
-    "fuel-app/Диаграммы.md",
     "fuel-app/Мысли.md",
+    "fuel-app/Диаграммы.md",
     "fuel-app/Без названия.md",
     "fuel-app/Приложение для Автокарт.canvas",
     "devOps/Certbot.md",
