@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fuel-app/Диаграммы.md",
+                "file": "fuel-app/Мысли.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Диаграммы"
+              "title": "Мысли"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "48c9ec8d642e2051",
   "lastOpenFiles": [
-    "fuel-app/Мысли.md",
     "fuel-app/Диаграммы.md",
+    "fuel-app/Мысли.md",
     "fuel-app/Без названия.md",
     "fuel-app/Приложение для Автокарт.canvas",
     "devOps/Certbot.md",
