@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fuel-app/Диаграммы.md",
-                "mode": "preview",
+                "file": "fuel-app/Ещё пример для авторизации.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Диаграммы"
+              "title": "Ещё пример для авторизации"
             }
           }
         ],
@@ -213,26 +213,26 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "a47beac959b2b7f6",
+  "active": "48c9ec8d642e2051",
   "lastOpenFiles": [
     "fuel-app/Мысли.md",
+    "fuel-app/Приложение для Автокарт.canvas",
+    "fuel-app/Ещё пример для авторизации.md",
+    "fuel-app/Доска проекта fuel-app.md",
     "fuel-app/Диаграммы.md",
     "fuel-app/Без названия.md",
-    "fuel-app/Приложение для Автокарт.canvas",
+    "fuel-app/API-first.md",
     "devOps/Certbot.md",
     "devOps/Hash corp Voult.md",
     "Astral/Развертывание/Заметки, что нужно прописать для разработки..md",
     "README.md",
     "Nixos/Чек лист для nixos.md",
-    "fuel-app/Ещё пример для авторизации.md",
-    "fuel-app/Доска проекта fuel-app.md",
     "Nixos/RDP скрипт.md",
     "fuel-app/Иструкции/Настройка Nginx.md",
     "fuel-app/Данные инфраструктуры/Stage.md",
     "fuel-app/CDCD проекта fuel-app.canvas",
     "Excalidraw/Drawing 2025-10-03 15.49.14.excalidraw.md",
     "Untitled Diagram.svg",
-    "fuel-app/API-first.md",
     "fuel-app/Untitled Diagram 1.svg",
     "fuel-app/Untitled Diagram.svg",
     "Excalidraw",
