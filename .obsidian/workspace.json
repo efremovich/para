@@ -98,22 +98,14 @@
             "id": "e50d4c22e8e3c81d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "fuel-app/Доска проекта fuel-app.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Инструкция по работе с задачами.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Доска проекта fuel-app"
+              "icon": "lucide-file",
+              "title": "Инструкция по работе с задачами"
             }
           }
         ],
@@ -279,6 +271,8 @@
   },
   "active": "e50d4c22e8e3c81d",
   "lastOpenFiles": [
+    "Топливные карты.md",
+    "fuel-app/Доска проекта fuel-app.md",
     "Инструкция по работе с задачами.md",
     "Главная доска задач.md",
     "fuel-app/Мысли и заметки.md",
@@ -286,7 +280,6 @@
     "fuel-app/Данные инфраструктуры/Stage.md",
     "fuel-app%2FДоска проекта fuel-app.md",
     "fuel-app/Доска.md",
-    "fuel-app/Доска проекта fuel-app.md",
     "fuel-app/'Доска.md",
     "fuel-app.md",
     "fuel-app/Уведомления.md",
@@ -294,7 +287,6 @@
     "Уведомленя.md",
     "fuel-app/Без названия.md",
     "fuel-app/Ещё пример для авторизации.md",
-    "Топливные карты.md",
     "Astral/Развертывание/Что я чинил..md",
     "Astral/Развертывание/Заметки, что нужно прописать для разработки..md",
     "fuel-app/Приложение для Автокарт.canvas",
