@@ -6,5 +6,6 @@
   "obsidian-local-rest-api",
   "mcp-tools",
   "templater-obsidian",
-  "smart-connections"
+  "smart-connections",
+  "obsidian-plantuml"
 ]

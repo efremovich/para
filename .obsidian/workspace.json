@@ -124,12 +124,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fuel-app/Документация/Системы/Система уведомлений.md",
+                "file": "Документация/Стандарты/DOCUMENTATION-HEADERS-STANDARD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Система уведомлений"
+              "title": "DOCUMENTATION-HEADERS-STANDARD"
             }
           }
         ],
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fuel-app/Документация/Системы/Система уведомлений.md",
+                "file": "Документация/Стандарты/DOCUMENTATION-HEADERS-STANDARD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Система уведомлений"
+              "title": "Обратные ссылки для DOCUMENTATION-HEADERS-STANDARD"
             }
           },
           {
@@ -309,20 +309,30 @@
   },
   "active": "e1f0dbace208639c",
   "lastOpenFiles": [
+    "fuel-app/2026-01-21 Работа за день.md",
+    "Документация/Стандарты/DOCUMENTATION-HEADERS-STANDARD.md",
+    "Документация/Стандарты",
+    "Документация",
+    "2026-01-21.md",
+    "fuel-app/Fuel App Backend - Клиент 1С.md",
+    "fuel-app/Уведомления.md",
+    "fuel-app/Приложение для Автокарт.canvas",
+    "fuel-app/Описание проекта.md",
+    "fuel-app/Мысли и заметки.md",
+    "fuel-app/CDCD проекта fuel-app.canvas",
+    "fuel-app/2026-01-21 Систематизация документации.md",
+    "fuel-app/Документация/Системы/Система уведомлений.md",
     "fuel-app/Документация/Системы/Система рекламных баннеров.md",
     "fuel-app/Документация/Системы/Система офисов.md",
     "fuel-app/Документация/Системы/Система нормативных документов.md",
     "fuel-app/Документация/Системы/Система валидации.md",
     "fuel-app/Документация/README.md",
-    "fuel-app/2026-01-21 Систематизация документации.md",
     "fuel-app/Документация/Инфраструктура/CI-CD.md",
     "fuel-app/Документация/Инфраструктура",
     "fuel-app/Документация/Клиент 1С/README.md",
     "fuel-app/Документация/Клиент 1С",
     "fuel-app/Документация/Разработка/Структура проекта.md",
     "fuel-app/Документация/Разработка",
-    "fuel-app/Описание проекта.md",
-    "fuel-app/Документация/Системы/Система уведомлений.md",
     "fuel-app/Документация/Системы/Система документов.md",
     "template",
     "fuel-app/Документация/Системы/Система отделов.md",
@@ -332,23 +342,13 @@
     "fuel-app/Документация/Архитектура/Общая архитектура.md",
     "fuel-app/Документация/Архитектура",
     "fuel-app/Документация",
-    "fuel-app/Мысли и заметки.md",
     "fuel-app/Доска проекта fuel-app.md",
     "fuel-app/Диаграммы.md",
-    "fuel-app/CDCD проекта fuel-app.canvas",
-    "Fuel App Backend - Клиент 1С.md",
     "fuel-app/API-first.md",
     "README.md",
     "Главная доска задач.md",
-    "fuel-app/Иструкции/Настройка Nginx.md",
-    "Инструкция по работе с задачами.md",
-    "fuel-app/Данные инфраструктуры/Stage.md",
-    "fuel-app/Уведомления.md",
-    "fuel-app/Приложение для Автокарт.canvas",
     "Untitled Diagram.svg",
     "fuel-app/Untitled Diagram 1.svg",
-    "fuel-app/Untitled Diagram.svg",
-    "Excalidraw",
-    "fuel-app/Иструкции"
+    "fuel-app/Untitled Diagram.svg"
   ]
 }

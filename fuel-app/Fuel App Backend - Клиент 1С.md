@@ -173,4 +173,4 @@ fuel-app-backend/1c-client/
 
 ## Теги
 
-#1С #API #Клиент #Интеграция #FuelApp #Backend
+#1С #API #Клиент #Интеграция #fuel-app #Backend
