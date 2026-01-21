@@ -122,22 +122,14 @@
             "id": "e1f0dbace208639c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Главная доска задач.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Fuel App Backend - Клиент 1С.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Главная доска задач"
+              "icon": "lucide-file",
+              "title": "Fuel App Backend - Клиент 1С"
             }
           }
         ],
@@ -214,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Главная доска задач.md",
+                "file": "Fuel App Backend - Клиент 1С.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +216,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Главная доска задач"
+              "title": "Обратные ссылки для Fuel App Backend - Клиент 1С"
             }
           },
           {
@@ -317,6 +309,8 @@
   },
   "active": "e1f0dbace208639c",
   "lastOpenFiles": [
+    "Главная доска задач.md",
+    "Fuel App Backend - Клиент 1С.md",
     "fuel-app/Доска проекта fuel-app.md",
     "fuel-app/Иструкции/Настройка Nginx.md",
     "Инструкция по работе с задачами.md",
@@ -327,7 +321,6 @@
     "fuel-app/CDCD проекта fuel-app.canvas",
     "fuel-app/API-first.md",
     "README.md",
-    "Главная доска задач.md",
     "Топливные карты.md",
     "fuel-app/Мысли и заметки.md",
     "Без названия.md",
@@ -344,7 +337,6 @@
     "fuel-app/Приложение для Автокарт.canvas",
     "devOps/Certbot.md",
     "devOps/Hash corp Voult.md",
-    "Nixos/Чек лист для nixos.md",
     "Untitled Diagram.svg",
     "fuel-app/Untitled Diagram 1.svg",
     "fuel-app/Untitled Diagram.svg",
