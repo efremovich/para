@@ -107,9 +107,29 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "a11b5fb79d8048d9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
+          },
+          {
+            "id": "e1f0dbace208639c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +202,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "devOps/Hash corp Voult.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +211,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Hash corp Voult"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -248,13 +267,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "d14050c4ff385634",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,8 +302,14 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "e50d4c22e8e3c81d",
+  "active": "e1f0dbace208639c",
   "lastOpenFiles": [
+    "fuel-app/Описание проекта.md",
+    "fuel-app/Уведомления.md",
+    "fuel-app/Диаграммы.md",
+    "fuel-app/CDCD проекта fuel-app.canvas",
+    "fuel-app/API-first.md",
+    "README.md",
     "Главная доска задач.md",
     "Инструкция по работе с задачами.md",
     "Топливные карты.md",
@@ -286,7 +321,6 @@
     "fuel-app/Доска.md",
     "fuel-app/'Доска.md",
     "fuel-app.md",
-    "fuel-app/Уведомления.md",
     "fuel-app/Уведомленя.md",
     "Уведомленя.md",
     "fuel-app/Без названия.md",
@@ -294,15 +328,9 @@
     "Astral/Развертывание/Что я чинил..md",
     "Astral/Развертывание/Заметки, что нужно прописать для разработки..md",
     "fuel-app/Приложение для Автокарт.canvas",
-    "fuel-app/Диаграммы.md",
-    "fuel-app/API-first.md",
     "devOps/Certbot.md",
     "devOps/Hash corp Voult.md",
-    "README.md",
     "Nixos/Чек лист для nixos.md",
-    "Nixos/RDP скрипт.md",
-    "fuel-app/Иструкции/Настройка Nginx.md",
-    "fuel-app/CDCD проекта fuel-app.canvas",
     "Untitled Diagram.svg",
     "fuel-app/Untitled Diagram 1.svg",
     "fuel-app/Untitled Diagram.svg",
