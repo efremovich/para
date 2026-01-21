@@ -4,5 +4,7 @@
   "leader-hotkeys-obsidian",
   "obsidian-kanban",
   "obsidian-local-rest-api",
-  "mcp-tools"
+  "mcp-tools",
+  "templater-obsidian",
+  "smart-connections"
 ]

@@ -100,12 +100,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Инструкция по работе с задачами.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инструкция по работе с задачами"
+              "title": "README"
             }
           }
         ],
@@ -258,6 +258,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -271,10 +275,10 @@
   },
   "active": "e50d4c22e8e3c81d",
   "lastOpenFiles": [
+    "Главная доска задач.md",
+    "Инструкция по работе с задачами.md",
     "Топливные карты.md",
     "fuel-app/Доска проекта fuel-app.md",
-    "Инструкция по работе с задачами.md",
-    "Главная доска задач.md",
     "fuel-app/Мысли и заметки.md",
     "Без названия.md",
     "fuel-app/Данные инфраструктуры/Stage.md",
