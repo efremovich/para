@@ -122,10 +122,22 @@
             "id": "e1f0dbace208639c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "kanban",
+              "state": {
+                "file": "Главная доска задач.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Главная доска задач"
             }
           }
         ],
@@ -202,6 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Главная доска задач.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +224,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Главная доска задач"
             }
           },
           {
@@ -304,6 +317,10 @@
   },
   "active": "e1f0dbace208639c",
   "lastOpenFiles": [
+    "fuel-app/Доска проекта fuel-app.md",
+    "fuel-app/Иструкции/Настройка Nginx.md",
+    "Инструкция по работе с задачами.md",
+    "fuel-app/Данные инфраструктуры/Stage.md",
     "fuel-app/Описание проекта.md",
     "fuel-app/Уведомления.md",
     "fuel-app/Диаграммы.md",
@@ -311,12 +328,9 @@
     "fuel-app/API-first.md",
     "README.md",
     "Главная доска задач.md",
-    "Инструкция по работе с задачами.md",
     "Топливные карты.md",
-    "fuel-app/Доска проекта fuel-app.md",
     "fuel-app/Мысли и заметки.md",
     "Без названия.md",
-    "fuel-app/Данные инфраструктуры/Stage.md",
     "fuel-app%2FДоска проекта fuel-app.md",
     "fuel-app/Доска.md",
     "fuel-app/'Доска.md",
