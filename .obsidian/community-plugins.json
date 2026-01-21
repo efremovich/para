@@ -2,5 +2,6 @@
   "obsidian-excalidraw-plugin",
   "calendar",
   "leader-hotkeys-obsidian",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-local-rest-api"
 ]
