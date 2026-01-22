@@ -124,12 +124,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Документация/Стандарты/DOCUMENTATION-HEADERS-STANDARD.md",
+                "file": "2026-01-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOCUMENTATION-HEADERS-STANDARD"
+              "title": "2026-01-22"
             }
           }
         ],
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Документация/Стандарты/DOCUMENTATION-HEADERS-STANDARD.md",
+                "file": "2026-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для DOCUMENTATION-HEADERS-STANDARD"
+              "title": "Обратные ссылки для 2026-01-22"
             }
           },
           {
@@ -307,11 +307,17 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "e1f0dbace208639c",
+  "active": "a47beac959b2b7f6",
   "lastOpenFiles": [
+    "template/Заметка проекта.md",
+    "template/Настройка Daily Notes.md",
+    "template/README.md",
+    "template/Ежедневная заметка (простая).md",
+    "template/Ежедневная заметка.md",
+    "README.md",
     "2026-01-22.md",
-    "fuel-app/2026-01-21 Работа за день.md",
     "Документация/Стандарты/DOCUMENTATION-HEADERS-STANDARD.md",
+    "fuel-app/2026-01-21 Работа за день.md",
     "Документация/Стандарты",
     "Документация",
     "2026-01-21.md",
@@ -338,15 +344,9 @@
     "template",
     "fuel-app/Документация/Системы/Система отделов.md",
     "fuel-app/Документация/Системы",
-    "fuel-app/Документация/API/Группировка сервисов.md",
     "fuel-app/Документация/API",
-    "fuel-app/Документация/Архитектура/Общая архитектура.md",
     "fuel-app/Документация/Архитектура",
     "fuel-app/Документация",
-    "fuel-app/Доска проекта fuel-app.md",
-    "fuel-app/Диаграммы.md",
-    "fuel-app/API-first.md",
-    "README.md",
     "Untitled Diagram.svg",
     "fuel-app/Untitled Diagram 1.svg",
     "fuel-app/Untitled Diagram.svg"
