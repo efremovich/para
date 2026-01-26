@@ -142,10 +142,14 @@
             "id": "8d2d30d3ffbdd5cc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "fuel-app/Документация/Системы/Система офисов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Система офисов"
             }
           }
         ],
@@ -222,6 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "fuel-app/Документация/Системы/Система офисов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +236,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Система офисов"
             }
           },
           {
@@ -325,9 +330,10 @@
   },
   "active": "8d2d30d3ffbdd5cc",
   "lastOpenFiles": [
+    "Главная доска задач.md",
+    "fuel-app/Документация/API/Группировка сервисов.md",
     "Учет часов работы.md",
     "2026-01-22.md",
-    "Главная доска задач.md",
     "Документация/Стандарты/DOCUMENTATION-HEADERS-STANDARD.md",
     "template/Заметка проекта.md",
     "template/Настройка Daily Notes.md",
@@ -354,7 +360,6 @@
     "2026-01-21.md",
     "fuel-app/Документация/Системы/Система рекламных баннеров.md",
     "fuel-app/Документация/Системы/Система офисов.md",
-    "fuel-app/Документация/Системы/Система нормативных документов.md",
     "fuel-app/Документация/Инфраструктура",
     "fuel-app/Документация/Клиент 1С",
     "fuel-app/Документация/Разработка",
