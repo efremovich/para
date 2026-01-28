@@ -144,12 +144,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data-receiver/Маппинг данных.md",
+                "file": "data-receiver/Маркетплейсы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Маппинг данных"
+              "title": "Маркетплейсы"
             }
           }
         ],
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data-receiver/Маппинг данных.md",
+                "file": "data-receiver/Маркетплейсы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Маппинг данных"
+              "title": "Обратные ссылки для Маркетплейсы"
             }
           },
           {
@@ -330,14 +330,14 @@
   },
   "active": "8d2d30d3ffbdd5cc",
   "lastOpenFiles": [
+    "data-receiver/Маппинг данных.md",
+    "data-receiver/Сущности.md",
     "data-receiver/Конфигурация.md",
     "data-receiver/Инфраструктура.md",
     "data-receiver/Архитектура.md",
     "data-receiver/YandexFetcher.md",
     "data-receiver/README.md",
     "data-receiver/API.md",
-    "data-receiver/Сущности.md",
-    "data-receiver/Маппинг данных.md",
     "Учет часов работы.md",
     "data-receiver/Маркетплейсы.md",
     "data-receiver",
