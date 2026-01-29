@@ -1,4 +1,4 @@
-# Клиент 1С для обмена с fuel-app-backend API
+e# Клиент 1С для обмена с fuel-app-backend API
 
 Клиент для интеграции конфигурации 1С с fuel-app-backend API.
 
