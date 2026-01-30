@@ -144,12 +144,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fuel-app/Документация/Клиент 1С/README.md",
+                "file": "2026-01-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-01-28"
             }
           }
         ],
@@ -330,6 +330,7 @@
   },
   "active": "8d2d30d3ffbdd5cc",
   "lastOpenFiles": [
+    "fuel-app/Документация/Клиент 1С/README.md",
     "fuel-app/Документация/Архитектура/Общая архитектура.md",
     "2026-01-28.md",
     "data-receiver/Маркетплейсы.md",
@@ -358,7 +359,6 @@
     "fuel-app/Мысли и заметки.md",
     "fuel-app/Fuel App Backend - Клиент 1С.md",
     "fuel-app/CDCD проекта fuel-app.canvas",
-    "fuel-app/2026-01-21 Систематизация документации.md",
     "Документация/Стандарты",
     "Документация",
     "fuel-app/Документация/Инфраструктура",
