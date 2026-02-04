@@ -144,12 +144,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учет/Учет часов работы.md",
+                "file": "2026-02-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Учет часов работы"
+              "title": "2026-02-03"
             }
           }
         ],
@@ -328,15 +328,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a47beac959b2b7f6",
+  "active": "8d2d30d3ffbdd5cc",
   "lastOpenFiles": [
+    "2026-02-02.md",
+    "2026-01-28.md",
+    "2026-01-27.md",
+    "2026-01-23.md",
+    "2026-01-22.md",
+    "2026-02-03.md",
+    "Учет/Учет часов работы.md",
     "Учет",
     "fuel-app/2026-01-21 Работа за день.md",
     "Главная доска задач.md",
     "Инструкция по работе с задачами.md",
-    "Учет/Учет часов работы.md",
-    "2026-01-28.md",
-    "2026-02-02.md",
     "2026-02-02 Реализация механизма работы с очередями RabbitMQ в 1С.md",
     "2026-02-02 Реализация очередей RabbitMQ для заявок.md",
     "fuel-app/Документация/Клиент 1С/README.md",
@@ -351,12 +355,9 @@
     "data-receiver/README.md",
     "data-receiver/API.md",
     "data-receiver",
-    "2026-01-27.md",
     "2026-01-21.md",
-    "2026-01-22.md",
     "fuel-app/Документация/Системы/Система офисов.md",
     "fuel-app/Документация/API/Группировка сервисов.md",
-    "Документация/Стандарты/DOCUMENTATION-HEADERS-STANDARD.md",
     "fuel-app/Приложение для Автокарт.canvas",
     "fuel-app/CDCD проекта fuel-app.canvas",
     "Документация/Стандарты",
@@ -367,7 +368,6 @@
     "template",
     "fuel-app/Документация/Системы",
     "fuel-app/Документация/API",
-    "fuel-app/Документация/Архитектура",
     "Untitled Diagram.svg",
     "fuel-app/Untitled Diagram 1.svg",
     "fuel-app/Untitled Diagram.svg"
