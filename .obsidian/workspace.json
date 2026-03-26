@@ -198,6 +198,7 @@
   },
   "active": "9c8e2fe06b36f080",
   "lastOpenFiles": [
+    "2026-03-26.md",
     "README.md",
     "2026-03-24.md",
     "2026-03-25.md",
@@ -224,7 +225,6 @@
     "data-receiver/Маппинг данных.md",
     "data-receiver/Сущности.md",
     "data-receiver/Конфигурация.md",
-    "data-receiver/Инфраструктура.md",
     "data-receiver",
     "fuel-app/Приложение для Автокарт.canvas",
     "fuel-app/CDCD проекта fuel-app.canvas",
