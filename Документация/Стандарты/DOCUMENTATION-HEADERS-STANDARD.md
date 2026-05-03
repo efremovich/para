@@ -10,7 +10,7 @@ audience:
   - architects
 type: standard
 ---
-
+U
 # Стандарт системы заголовков документации Fuel.App
 
 ## 🎯 Назначение
