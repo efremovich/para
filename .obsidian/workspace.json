@@ -200,6 +200,7 @@
   },
   "active": "9c8e2fe06b36f080",
   "lastOpenFiles": [
+    "Daily/2026-05-04-abonent-migrator.md",
     "2026-04-27.md",
     "fuel-app/Документация/Архитектура/Общая архитектура.md",
     "Astral/Нагрузочное тестирование.md",
@@ -228,7 +229,6 @@
     "Daily",
     "README.md",
     "template/Заметка проекта.md",
-    "template/Ежедневная заметка (простая).md",
     "Учет",
     "data-receiver",
     "fuel-app/Приложение для Автокарт.canvas",
