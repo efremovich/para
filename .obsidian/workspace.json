@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "OEDO-9021"
             }
+          },
+          {
+            "id": "ba8bd85d9b87c69c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astral/Нагрузочное.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Нагрузочное"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -226,11 +240,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "71517eb8531de8e9",
+  "active": "ba8bd85d9b87c69c",
   "lastOpenFiles": [
+    "Astral/OEDO-9021.md",
+    "Astral/Нагрузочное.md",
     "Daily/2026-05-20.md",
     "Учет/Учет часов работы.md",
-    "Astral/OEDO-9021.md",
     "Astral/Нагрузочное тестирование.md",
     "Astral/Тестирование УС и блокировка ИОП УОУ.md",
     "devOps/Hash corp Voult.md",
@@ -255,7 +270,6 @@
     "2026-03-24.md",
     "2026-03-25.md",
     "2026-03-26.md",
-    "2026-04-01.md",
     "Daily",
     "Учет",
     "data-receiver",
