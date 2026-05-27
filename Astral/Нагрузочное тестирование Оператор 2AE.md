@@ -111,6 +111,26 @@
   - `wpgx.ConnectV1`: `MaxConns` из `env`
   - убран `ping/reconnect` на каждый соеденение, добавлен `PingConn` для `healthcheck`
   
+**operator-roseu-reader** - низкая эффективность пула и рост очереди на `PgBouncer`.
+
+  Симптом: при ~60 pod reader и Client waiting connections на PgBouncer порядка ~400; throughput не рос линейно с числом pod.
+
+  **Диагностика:**
+  • `pprof reader`: десятки `goroutine` на `pgxpool.Acquire`;
+  • на pod: `WPGX_POOL_SIZE=5`, `SQLX_POOL_SIZE=5`, при этом `Reader.Workers` много `goroutine` на мало коннектов;
+  • до ~15 клиентских слотов к БД на `pod` (`wpgx operator` + `sqlx` + `wpgx queue`); при 60 pod - сотни ожидающих у `PgBouncer`.
+
+  **Причины:**
+  - Несогласованность `Workers` и размера пула — воркеры `NATS` конкурируют за 5 соединений `wpgx`.
+  - Два пула к одной operator DB (`wpgx` + `sqlx`) без общего лимита - удвоение давления на `PgBouncer`.
+  - Лишние `round-trip` к пулу: в `LS.Save` / `Document.saveToDB` / `TP.Save` - `RawSelect` вне открытой транзакции (два `Acquire` на одну операцию).
+  - Долгая синхронная цепочка в Complete: `MakeTK` → `PackReceipts` (упаковка ТК как у packer) удерживала NATS-воркер reader и конкурировала за те же пулы.
+
+  **Решение:**
+  - `wpgx.RawSelect` + перевод проверок существования внутрь транзакции;
+  - ограничение `sqlx`-пула operator: не выше `wpgx`.
+
+  **Результат:** снижение `cl_waiting` на `PgBouncer`, уменьшение времени удержания в `reader`.
 ### 5. Результаты нагрузочного теста
 **Сравнение с продуктивом:**  
 Ниже представлены скриншоты из Grafana. Слева — пиковая нагрузка на **продакшене** [дата/время], справа — аналогичные показатели на **нагрузочном тесте** [дата/время].
