@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astral/OEDO-9021.md",
+                "file": "Astral/Нагрузочное тестирование Оператор 2AE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OEDO-9021"
+              "title": "Нагрузочное тестирование Оператор 2AE"
             }
           }
         ],
@@ -242,8 +242,8 @@
   },
   "active": "ba8bd85d9b87c69c",
   "lastOpenFiles": [
-    "Astral/Нагрузочное.md",
     "Astral/OEDO-9021.md",
+    "Astral/Нагрузочное тестирование Оператор 2AE.md",
     "Daily/2026-05-20.md",
     "Учет/Учет часов работы.md",
     "Astral/Нагрузочное тестирование.md",
