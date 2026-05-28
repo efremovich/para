@@ -53,10 +53,34 @@
             "id": "ba8bd85d9b87c69c",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Astral/static/Pasted image 20260527191419.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260527191419"
+            }
+          },
+          {
+            "id": "b6b5df4fe358415c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Astral/static/Pasted image 20260527191738.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260527191738"
+            }
+          },
+          {
+            "id": "7c969b44bd2ef4f0",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Astral/Нагрузочное тестирование Оператор 2AE.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -64,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -240,16 +264,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ba8bd85d9b87c69c",
+  "active": "7c969b44bd2ef4f0",
   "lastOpenFiles": [
-    "Pasted image 20260527191946.png",
-    "Pasted image 20260527191927.png",
-    "Pasted image 20260527191801.png",
-    "Pasted image 20260527191738.png",
-    "Pasted image 20260527191617.png",
-    "Pasted image 20260527191419.png",
-    "Astral/OEDO-9021.md",
+    "Astral/static/Pasted image 20260527191419.png",
+    "Astral/static/Pasted image 20260527191617.png",
+    "Astral/static/Pasted image 20260527191738.png",
     "Astral/Нагрузочное тестирование Оператор 2AE.md",
+    "Astral/static",
+    "Astral/static/Pasted image 20260527191946.png",
+    "Astral/static/Pasted image 20260527191927.png",
+    "Astral/static/Pasted image 20260527191801.png",
+    "Astral/OEDO-9021.md",
     "Daily/2026-05-20.md",
     "Учет/Учет часов работы.md",
     "Astral/Нагрузочное тестирование.md",
@@ -286,9 +311,7 @@
     "fuel-app/Документация/Клиент 1С",
     "fuel-app/Документация/Разработка",
     "template",
-    "fuel-app/Документация/Системы",
     "Untitled Diagram.svg",
-    "fuel-app/Untitled Diagram 1.svg",
-    "fuel-app/Untitled Diagram.svg"
+    "fuel-app/Untitled Diagram 1.svg"
   ]
 }
