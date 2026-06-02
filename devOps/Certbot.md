@@ -1,3 +1,9 @@
+## Harbor (Docker Registry)
+
+Harbor на `fuel-stage-app` использует отдельную копию сертификата — см. **[[Обновление сертификатов Harbor]]**.
+
+Deploy-hook уже настроен: `/etc/letsencrypt/renewal-hooks/deploy/harbor.sh`
+
 ## 0. **Добавление сертификата в nginx**
 ```bash
 sudo certbot --nginx -d harbor.autocard-yug.ru
