@@ -266,6 +266,8 @@
   },
   "active": "7c969b44bd2ef4f0",
   "lastOpenFiles": [
+    "template/cursor-fix-shell.md",
+    "Nixos/CURSOR_SHELL_FIX.md",
     "Astral/Нагрузочное тестирование Оператор 2AE.md",
     "devOps/Диагностика selectel — curl ifconfig.me и sshuttle.md",
     "Astral/OEDO-9021.md",
@@ -299,8 +301,6 @@
     "Daily/2026-04-29-abonent-migrator.md",
     "Daily/2026-04-29.md",
     "Daily/2026-04-28.md",
-    "Инструкция по работе с задачами.md",
-    "2026-01-21.md",
     "Daily",
     "Учет",
     "data-receiver",
