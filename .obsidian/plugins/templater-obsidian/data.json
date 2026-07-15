@@ -1,5 +1,5 @@
 {
-  "command_timeout": 5,
+  "command_timeout": 120,
   "templates_folder": "template",
   "templates_pairs": [
     [
@@ -9,8 +9,8 @@
   ],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
-  "enable_system_commands": false,
-  "shell_path": "",
+  "enable_system_commands": true,
+  "shell_path": "/run/current-system/sw/bin/bash",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [

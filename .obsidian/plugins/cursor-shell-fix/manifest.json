@@ -1,0 +1,9 @@
+{
+  "id": "cursor-shell-fix",
+  "name": "Cursor Shell Fix",
+  "version": "0.0.1",
+  "minAppVersion": "1.0.0",
+  "description": "One-shot: fix Cursor agent shell and prefetch HASP hash",
+  "author": "local",
+  "isDesktopOnly": true
+}

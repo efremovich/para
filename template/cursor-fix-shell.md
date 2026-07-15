@@ -2,6 +2,6 @@
 tags: []
 ---
 <%*
-await tp.system.shell("bash /home/efremov/.nix/.cursor/hooks/fix-shell.sh");
+await tp.system.shell("/run/current-system/sw/bin/bash /home/efremov/.nix/.cursor/hooks/fix-shell.sh");
 -%>
 fixed

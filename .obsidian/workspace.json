@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-06-02.md",
+                "file": "Nixos/run-fix-now.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-02"
+              "title": "run-fix-now"
             }
           }
         ],
@@ -266,6 +266,11 @@
   },
   "active": "7c969b44bd2ef4f0",
   "lastOpenFiles": [
+    "template/plain-ok.md",
+    "Nixos/cursor-fix-trigger-20260715.md",
+    "Daily/2026-06-02.md",
+    "template/touch-test.md",
+    "Nixos/run-fix-now.md",
     "template/cursor-fix-shell.md",
     "Nixos/CURSOR_SHELL_FIX.md",
     "Astral/Нагрузочное тестирование Оператор 2AE.md",
@@ -296,11 +301,6 @@
     "Документация/Стандарты/DOCUMENTATION-HEADERS-STANDARD.md",
     "Daily/2026-05-05.md",
     "Daily/2026-05-04.md",
-    "Daily/2026-05-04-abonent-migrator.md",
-    "fuel-app/Документация/Архитектура/Общая архитектура.md",
-    "Daily/2026-04-29-abonent-migrator.md",
-    "Daily/2026-04-29.md",
-    "Daily/2026-04-28.md",
     "Daily",
     "Учет",
     "data-receiver",
