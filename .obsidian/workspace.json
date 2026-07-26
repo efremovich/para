@@ -4,105 +4,160 @@
     "type": "split",
     "children": [
       {
-        "id": "49041d3717a5cc9a",
-        "type": "tabs",
+        "id": "39bf6e1c0737660d",
+        "type": "split",
         "children": [
           {
-            "id": "9c8e2fe06b36f080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-05-18.md",
-                "mode": "source",
-                "source": false
+            "id": "49041d3717a5cc9a",
+            "type": "tabs",
+            "dimension": 80.88235294117648,
+            "children": [
+              {
+                "id": "9c8e2fe06b36f080",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/2026-05-18.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-05-18"
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-05-18"
-            }
+              {
+                "id": "48b82b22970d93f8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Учет/Учет часов работы.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Учет часов работы"
+                }
+              },
+              {
+                "id": "71517eb8531de8e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Astral/OEDO-9021.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "OEDO-9021"
+                }
+              },
+              {
+                "id": "ba8bd85d9b87c69c",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Astral/static/Pasted image 20260527191419.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20260527191419"
+                }
+              },
+              {
+                "id": "b6b5df4fe358415c",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Astral/static/Pasted image 20260527191738.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20260527191738"
+                }
+              },
+              {
+                "id": "7c969b44bd2ef4f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Nixos/run-fix-now.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "run-fix-now"
+                }
+              },
+              {
+                "id": "bd652af2a94ed74d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Схематехника/Элементы и схемы/Нормальный элемент Вестона.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Нормальный элемент Вестона"
+                }
+              }
+            ],
+            "currentTab": 6
           },
           {
-            "id": "48b82b22970d93f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учет/Учет часов работы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Учет часов работы"
-            }
-          },
-          {
-            "id": "71517eb8531de8e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Astral/OEDO-9021.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OEDO-9021"
-            }
-          },
-          {
-            "id": "ba8bd85d9b87c69c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Astral/static/Pasted image 20260527191419.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260527191419"
-            }
-          },
-          {
-            "id": "b6b5df4fe358415c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Astral/static/Pasted image 20260527191738.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260527191738"
-            }
-          },
-          {
-            "id": "7c969b44bd2ef4f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nixos/run-fix-now.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "run-fix-now"
-            }
-          },
-          {
-            "id": "bd652af2a94ed74d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Схематехника/ИОН/Источники опроного напряжения и тока..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Источники опроного напряжения и тока."
-            }
+            "id": "f3efe383962ea9db",
+            "type": "tabs",
+            "dimension": 19.11764705882353,
+            "children": [
+              {
+                "id": "2ea48a9fe60b9f07",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/efremov/para",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/sh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "linux": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: MC | Заполнение информации по элементам Сх..."
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 6
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -175,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-01-28.md",
+                "file": "Схематехника/Элементы и схемы/Нормальный элемент Вестона.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +240,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 2026-01-28"
+              "title": "Обратные ссылки для Нормальный элемент Вестона"
             }
           },
           {
@@ -223,13 +278,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Astral/Развертывание/Заметки, что нужно прописать для разработки..md",
+                "file": "Схематехника/Элементы и схемы/Нормальный элемент Вестона.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Заметки, что нужно прописать для разработки."
+              "title": "Структура Нормальный элемент Вестона"
             }
           },
           {
@@ -253,12 +308,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,8 +334,12 @@
   },
   "active": "bd652af2a94ed74d",
   "lastOpenFiles": [
+    "Схематехника/Элементы и схемы/Нормальный элемент Кларка.md",
     "Схематехника/Обозначение параметров оплупроводиновых компонентов.md",
     "Схематехника/ИОН/Источники опроного напряжения и тока..md",
+    "Схематехника/Элементы и схемы/Нормальный элемент Вестона.md",
+    "Задача от Гены.md",
+    "Схематехника/Элементы и схемы",
     "Схематехника/ИОН",
     "Nixos/run-fix-now.md",
     "Схематехника",
@@ -309,14 +367,11 @@
     "Astral/Тестирование УС и блокировка ИОП УОУ.md",
     "devOps/Hash corp Voult.md",
     "devOps/Certbot.md",
-    "Задача от Гены.md",
     "Главная доска задач.md",
     "Pasted image 20260424133458.png",
     "2026-04-27.md",
     "Pasted image 20260424133048.png",
     "Daily/2026-05-18.md",
-    "Daily/2026-05-19.md",
-    "Документация/Стандарты/DOCUMENTATION-HEADERS-STANDARD.md",
     "Daily",
     "Учет",
     "data-receiver",
@@ -325,7 +380,6 @@
     "Документация/Стандарты",
     "Документация",
     "fuel-app/Документация/Инфраструктура",
-    "fuel-app/Документация/Клиент 1С",
     "Untitled Diagram.svg",
     "fuel-app/Untitled Diagram 1.svg"
   ]
