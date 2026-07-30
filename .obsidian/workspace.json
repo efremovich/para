@@ -105,9 +105,21 @@
                   "icon": "lucide-file",
                   "title": "Источники опроного напряжения и тока."
                 }
+              },
+              {
+                "id": "800d575127dab6c2",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2026-07-30 16.14.54.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2026-07-30 16.14.54.excalidraw"
+                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 7
           },
           {
             "id": "f3efe383962ea9db",
@@ -278,13 +290,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Схематехника/ИОН/Источники опроного напряжения и тока..md",
+                "file": "Excalidraw/Drawing 2026-07-30 16.14.54.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Источники опроного напряжения и тока."
+              "title": "Структура Drawing 2026-07-30 16.14.54.excalidraw"
             }
           },
           {
@@ -332,10 +344,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "bd652af2a94ed74d",
+  "active": "800d575127dab6c2",
   "lastOpenFiles": [
-    "Схематехника/Элементы и схемы/Нормальный элемент Вестона.md",
     "Схематехника/ИОН/Источники опроного напряжения и тока..md",
+    "Excalidraw/Drawing 2026-07-30 16.14.54.excalidraw.md",
+    "Excalidraw",
+    "Схематехника/Элементы и схемы/Нормальный элемент Вестона.md",
     "Схематехника/Элементы и схемы/Нормальный элемент Кларка.md",
     "Схематехника/Обозначение параметров оплупроводиновых компонентов.md",
     "Задача от Гены.md",
@@ -371,7 +385,6 @@
     "Pasted image 20260424133458.png",
     "2026-04-27.md",
     "Pasted image 20260424133048.png",
-    "Daily/2026-05-18.md",
     "Daily",
     "Учет",
     "data-receiver",
@@ -379,7 +392,6 @@
     "fuel-app/CDCD проекта fuel-app.canvas",
     "Документация/Стандарты",
     "Документация",
-    "fuel-app/Документация/Инфраструктура",
     "Untitled Diagram.svg",
     "fuel-app/Untitled Diagram 1.svg"
   ]
