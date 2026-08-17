@@ -138,16 +138,30 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Алексей/Git день 1.md",
+                    "file": "Astral/Нагрузочное тестирование Оператор 2AE.md",
                     "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Git день 1"
+                  "title": "Нагрузочное тестирование Оператор 2AE"
+                }
+              },
+              {
+                "id": "7f9a2d3f29c7fe70",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Astral/Запрос на получение статистики Оператора.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Запрос на получение статистики Оператора"
                 }
               }
             ],
-            "currentTab": 9
+            "currentTab": 10
           },
           {
             "id": "f3efe383962ea9db",
@@ -320,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алексей/Git день 1.md",
+                "file": "Astral/Запрос на получение статистики Оператора.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -374,10 +388,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c39cfa101287f084",
+  "active": "a47beac959b2b7f6",
   "lastOpenFiles": [
-    "Алексей/Git день 2.md",
+    "Astral/Нагрузочное тестирование Оператор 2AE.md",
+    "Astral/Запрос на получение статистики Оператора.md",
     "Алексей/Git день 1.md",
+    "Алексей/Git день 2.md",
     "Алексей/Git день 3.md",
     "Алексей",
     "Алексей",
@@ -398,7 +414,6 @@
     "template/touch-test.md",
     "template/cursor-fix-shell.md",
     "Nixos/CURSOR_SHELL_FIX.md",
-    "Astral/Нагрузочное тестирование Оператор 2AE.md",
     "devOps/Диагностика selectel — curl ifconfig.me и sshuttle.md",
     "Astral/OEDO-9021.md",
     "Astral/static/Pasted image 20260527191419.png",
@@ -414,7 +429,6 @@
     "Учет/Учет часов работы.md",
     "Astral/Нагрузочное тестирование.md",
     "Astral/Тестирование УС и блокировка ИОП УОУ.md",
-    "devOps/Hash corp Voult.md",
     "Pasted image 20260424133458.png",
     "Pasted image 20260424133048.png",
     "Daily",
