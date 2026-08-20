@@ -152,12 +152,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Astral/Запрос на получение статистики Оператора.md",
+                    "file": "Astral/Без названия.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Запрос на получение статистики Оператора"
+                  "title": "Без названия"
                 }
               }
             ],
@@ -334,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Astral/Запрос на получение статистики Оператора.md",
+                "file": "Astral/Без названия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -388,10 +388,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a47beac959b2b7f6",
+  "active": "7f9a2d3f29c7fe70",
   "lastOpenFiles": [
-    "Astral/Нагрузочное тестирование Оператор 2AE.md",
     "Astral/Запрос на получение статистики Оператора.md",
+    "Astral/Без названия.md",
+    "Astral/Нагрузочное тестирование Оператор 2AE.md",
     "Алексей/Git день 1.md",
     "Алексей/Git день 2.md",
     "Алексей/Git день 3.md",
@@ -428,7 +429,6 @@
     "Daily/2026-05-20.md",
     "Учет/Учет часов работы.md",
     "Astral/Нагрузочное тестирование.md",
-    "Astral/Тестирование УС и блокировка ИОП УОУ.md",
     "Pasted image 20260424133458.png",
     "Pasted image 20260424133048.png",
     "Daily",
