@@ -159,9 +159,23 @@
                   "icon": "lucide-file",
                   "title": "Классификация Документов ЭПД и ЭДО"
                 }
+              },
+              {
+                "id": "36e8c8fddfcc610d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Вопросы 1-1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Вопросы 1-1"
+                }
               }
             ],
-            "currentTab": 10
+            "currentTab": 11
           },
           {
             "id": "f3efe383962ea9db",
@@ -334,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Astral/Классификация Документов ЭПД и ЭДО.md",
+                "file": "Вопросы 1-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -388,10 +402,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7f9a2d3f29c7fe70",
+  "active": "36e8c8fddfcc610d",
   "lastOpenFiles": [
-    "Astral/Запрос на получение статистики Оператора.md",
     "Astral/Классификация Документов ЭПД и ЭДО.md",
+    "Вопросы 1-1.md",
+    "Astral/Запрос на получение статистики Оператора.md",
     "Astral/Нагрузочное тестирование Оператор 2AE.md",
     "Алексей/Git день 1.md",
     "Алексей/Git день 2.md",
@@ -428,7 +443,6 @@
     "Astral/static/Pasted image 20260527191801.png",
     "Daily/2026-05-20.md",
     "Учет/Учет часов работы.md",
-    "Astral/Нагрузочное тестирование.md",
     "Pasted image 20260424133458.png",
     "Pasted image 20260424133048.png",
     "Daily",
