@@ -180,12 +180,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Perfomance log.md",
+                    "file": "Инструкции.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Perfomance log"
+                  "title": "Инструкции"
                 }
               },
               {
@@ -194,12 +194,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Perfomance log.md",
+                    "file": "Инструкции.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Perfomance log"
+                  "title": "Инструкции"
                 }
               }
             ],
@@ -376,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Perfomance log.md",
+                "file": "Инструкции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -433,7 +433,7 @@
   "active": "fc31c42e5817521a",
   "lastOpenFiles": [
     "Ревью 28.08 - 10.09.md",
-    "Perfomance log.md",
+    "Инструкции.md",
     "Без названия",
     "Вопросы 1-1.md",
     "Astral/Классификация Документов ЭПД и ЭДО.md",
