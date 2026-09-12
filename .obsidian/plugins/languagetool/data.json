@@ -1,0 +1,25 @@
+{
+  "endpoint": "public",
+  "serverUrl": "https://api.languagetool.org",
+  "autoCheckDelay": 3000,
+  "shouldAutoCheck": false,
+  "synonyms": "",
+  "motherTongue": "",
+  "staticLanguage": "ru-RU",
+  "languageVariety": {
+    "en": "en-US",
+    "de": "de-DE",
+    "pt": "pt-BR",
+    "ca": "ca-ES"
+  },
+  "dictionary": [],
+  "syncDictionary": false,
+  "remoteDictionary": [],
+  "pickyMode": false,
+  "enabledCategories": [],
+  "disabledCategories": [],
+  "enabledRules": [],
+  "disabledRules": [],
+  "longCheckNotification": true,
+  "injectProperties": true
+}
