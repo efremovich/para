@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamLead/Задачи.md",
+                "file": "TeamLead/Вопросы 1-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задачи"
+              "title": "Вопросы 1-1"
             }
           }
         ],
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamLead/Задачи.md",
+                "file": "TeamLead/Вопросы 1-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -215,8 +215,8 @@
   },
   "active": "1cd0589ec6bcbcf9",
   "lastOpenFiles": [
-    "TeamLead/Вопросы 1-1.md",
     "TeamLead/Задачи.md",
+    "TeamLead/Вопросы 1-1.md",
     "TeamLead/Perfomance log/28.08 - 11.09.md",
     "TeamLead/Досье/Барбарин Артур.md",
     "TeamLead/Инструкции.md",
