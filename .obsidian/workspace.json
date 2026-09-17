@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Вопросы 1-1"
             }
+          },
+          {
+            "id": "37582e0a9de2ab74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TeamLead/Досье/Гуркин Дмитрий.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Гуркин Дмитрий"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamLead/Вопросы 1-1.md",
+                "file": "TeamLead/Досье/Гуркин Дмитрий.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,10 +227,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1cd0589ec6bcbcf9",
+  "active": "a47beac959b2b7f6",
   "lastOpenFiles": [
-    "TeamLead/Задачи.md",
     "TeamLead/Вопросы 1-1.md",
+    "TeamLead/Досье/Гуркин Дмитрий.md",
+    "TeamLead/Задачи.md",
     "TeamLead/Perfomance log/28.08 - 11.09.md",
     "TeamLead/Досье/Барбарин Артур.md",
     "TeamLead/Инструкции.md",
@@ -250,7 +265,6 @@
     "template/cursor-fix-shell.md",
     "Nixos/CURSOR_SHELL_FIX.md",
     "devOps/Диагностика selectel — curl ifconfig.me и sshuttle.md",
-    "Astral/OEDO-9021.md",
     "Astral/static/Pasted image 20260527191419.png",
     "Astral/static/Pasted image 20260527191617.png",
     "Astral/static/Pasted image 20260527191738.png",
