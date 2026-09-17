@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamLead/Досье/Гуркин Дмитрий.md",
+                "file": "TeamLead/Perfomance log/28.08 - 11.09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Гуркин Дмитрий"
+              "title": "28.08 - 11.09"
             }
           }
         ],
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamLead/Досье/Гуркин Дмитрий.md",
+                "file": "TeamLead/Perfomance log/28.08 - 11.09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,10 +227,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a47beac959b2b7f6",
+  "active": "37582e0a9de2ab74",
   "lastOpenFiles": [
-    "TeamLead/Вопросы 1-1.md",
     "TeamLead/Досье/Гуркин Дмитрий.md",
+    "TeamLead/Вопросы 1-1.md",
     "TeamLead/Задачи.md",
     "TeamLead/Perfomance log/28.08 - 11.09.md",
     "TeamLead/Досье/Барбарин Артур.md",
