@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamLead/Досье/Барбарин Артур.md",
+                "file": "TeamLead/Инструкции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Барбарин Артур"
+              "title": "Инструкции"
             }
           }
         ],
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamLead/Досье/Барбарин Артур.md",
+                "file": "TeamLead/Инструкции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -229,11 +229,11 @@
   },
   "active": "37582e0a9de2ab74",
   "lastOpenFiles": [
-    "TeamLead/Досье/Гуркин Дмитрий.md",
-    "TeamLead/Досье/Барбарин Артур.md",
-    "TeamLead/Perfomance log/28.08 - 11.09.md",
-    "TeamLead/Вопросы 1-1.md",
     "TeamLead/Задачи.md",
+    "TeamLead/Вопросы 1-1.md",
+    "TeamLead/Досье/Барбарин Артур.md",
+    "TeamLead/Досье/Гуркин Дмитрий.md",
+    "TeamLead/Perfomance log/28.08 - 11.09.md",
     "TeamLead/Инструкции.md",
     "TeamLead/Perfomance log/28.08 - 10.09.md~",
     "TeamLead/Perfomance log",
