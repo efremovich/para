@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamLead/Perfomance log/12.19 - 24.09.md",
+                "file": "TeamLead/Позиция в переговорах.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.19 - 24.09"
+              "title": "Позиция в переговорах"
             }
           }
         ],
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamLead/Perfomance log/12.19 - 24.09.md",
+                "file": "TeamLead/Позиция в переговорах.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -257,11 +257,11 @@
   },
   "active": "01f4b0ecd5cbcedc",
   "lastOpenFiles": [
-    "TeamLead/Perfomance log/28.08 - 11.09.md",
-    "TeamLead/Perfomance log/12.19 - 24.09.md",
-    "TeamLead/Инструкции.md",
-    "TeamLead/Задачи.md",
     "TeamLead/Вопросы 1-1.md",
+    "TeamLead/Perfomance log/12.19 - 24.09.md",
+    "TeamLead/Perfomance log/28.08 - 11.09.md",
+    "TeamLead/Инструкции.md",
+    "TeamLead/Позиция в переговорах.md",
     "Задачи к которым нужно вернуться..md",
     "Задача от Гены.md",
     "template/Ежедневная заметка (простая).md",
